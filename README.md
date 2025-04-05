@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, Meu nome é Lucas Santos.</h1>
-<h3 align="center">Trabalho como Analista de Planejamento e sou formado em Logística. Atualmente, tenho me interessado pela área de tecnologia e estou buscando conhecimento em Análise de Dados.</h3>
+<h1 align="center">Hi 👋 bem-vindo(a) ao meu perfil :)</h1>
+<p align="justify">Me chamo Lucas Santos e sou de São Paulo - SP. Trabalho como Analista de Planejamento e sou formado em Logística. Atualmente, tenho me interessado pela área de tecnologia e estou buscando conhecimento em <strong>Análise de Dados</strong>.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukovsksantos" alt="lukovsksantos" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fale comigo:</h3>
 <p align="left">
 </p>
 
